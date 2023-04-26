@@ -1,5 +1,5 @@
 import { ts } from "ts-morph";
-import { IPatchedTypeChecker } from "../Interfaces/IPatchedTypeChecker";
+import { IPatchedTypeChecker } from "../Interfaces/IPatchedTypeChecker.js";
 
 /**
  * Patch ts.TypeChecker['getInstantiationCount'] as it's private

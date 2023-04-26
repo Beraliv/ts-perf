@@ -1,4 +1,4 @@
-import { TAnyFunction } from "../Types/TAnyFunction";
+import { TAnyFunction } from "../Types/TAnyFunction.js";
 
 interface ITestBase<TFunction extends TAnyFunction> {
   description: string;

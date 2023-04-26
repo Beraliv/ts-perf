@@ -1,0 +1,23 @@
+{
+  "name": "ts-perf",
+  "version": "0.0.1",
+  "description": "TypeScript performance tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beraliv/ts-perf.git"
+  },
+  "keywords": [
+    "typescript",
+    "performance"
+  ],
+  "author": "beraliv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beraliv/ts-perf/issues"
+  },
+  "homepage": "https://github.com/Beraliv/ts-perf#readme"
+}

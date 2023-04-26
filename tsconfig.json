@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
+    "moduleResolution": "nodenext",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "composite": true,
+    "exactOptionalPropertyTypes": true,
+    "noErrorTruncation": false,
+    "lib": ["ESNext"]
+  },
+  "ts-node": {
+    "esm": true,
+    "swc": true,
+    "transpileOnly": true
+  },
+  "exclude": ["node_modules", "dist"]
+}

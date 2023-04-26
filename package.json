@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/Beraliv/ts-perf#readme",
   "devDependencies": {
-    "tsup": "6.7.0"
+    "@types/node": "18.16.1"
+  },
+  "dependencies": {
+    "ts-morph": "18.0.0"
   }
 }

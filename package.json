@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Beraliv/ts-perf/issues"
   },
-  "homepage": "https://github.com/Beraliv/ts-perf#readme"
+  "homepage": "https://github.com/Beraliv/ts-perf#readme",
+  "devDependencies": {
+    "tsup": "6.7.0"
+  }
 }
